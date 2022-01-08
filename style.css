@@ -10,17 +10,17 @@ section{
     margin-left: 20%;
 }
 span{
-    font-size: 40px;
-      padding-top: 20px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
+      font-size: 40px;
+      border-left:;
 }
 .first-heading{
-    
+    font-family: Architectural, High Contrast, Serif;
+    border-left: solid 4px orangered;
+    border-width: 4px;
 }
 .second-heading{
-    color: darkgoldenrod;  
+    color: darkgoldenrod;
+    font-family: Architectural, High Contrast, Serif;  
 }
 .third-heading{
     font-size: 50px;
@@ -34,7 +34,7 @@ p{
     color:rgb(15, 14, 14);
     font-family: 'Poppins', sans-serif;
 }
-.first-link{
+.first-anchor{
     font-size: 20px;
     color:white;
     background-color: brown;
@@ -54,20 +54,130 @@ p{
   width: 150px;
 }
 .mission{
-    border: solid;
+    border: solid whitesmoke;
     border-radius: 20px;
-    border-image: url(images/shapes/shape-1.png);
-    border: 1px solid #ddd;
-    background-color:whitesmoke
+    background-color:whitesmoke;
+    margin: 0px 10px 0px 0px;
 }
 .heading-of-mission{
     font-size: 25px;
+    font-family: 'Roboto', sans-serif;
     font-weight: 200;
     padding-left: 15px;
+    font-weight: 600;
     
 }
 .pragraph-of-mission{
-    padding-left: 15px;
-    color: darkgray;
+    font-size: 16px;
+    padding:15px;
+    color: dimgrey;
     font-family: 'Roboto', sans-serif;
 }
+
+
+
+
+
+.image-of-vission{
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+.vission{
+    border: solid 80px 80px;
+    border-radius: 20px;
+    background-color:pink;
+    margin: 0px 10px 0px 10px;
+}
+.heading-of-vission{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    padding-left: 15px;
+    font-weight: 600;}
+
+.pragraph-of-vission{
+        font-size: 16px;
+        padding:15px;
+        color: dimgrey;
+        font-family: 'Roboto', sans-serif;}
+
+
+
+
+        .image-of-goals{
+            border-radius: 4px;
+            padding: 5px;
+            width: 150px;
+        }
+        .goals{
+            border: solid 80px 80px;
+            border-radius: 20px;
+            background-color: wheat;
+            margin: 0px 10px 0px 10px;
+        }
+        .heading-of-goals{
+            font-size: 25px;
+            font-family: 'Roboto', sans-serif;
+            font-weight: 200;
+            padding-left: 15px;
+            font-weight: 600;}
+        
+        .pragraph-of-goals{
+                font-size: 16px;
+                padding:15px;
+                color: dimgrey;
+                font-family: 'Roboto', sans-serif;}
+
+
+
+                
+                
+                .sec-three{
+                    margin-top: 60px;
+                    background-image: url(images/shapes/shape-1.png);
+                    background-size: 20%;
+                    background-position: left;
+                    background-repeat: no-repeat;
+                }
+                .second-img{
+                    width: 60%;
+                    margin-left: 20%;
+                }
+            .heading-four{
+                font-size: 40px;
+            }
+        .second-anchor{
+        font-size: 20px;
+        color:white;
+        background-color: brown;
+        text-decoration: none;
+        border: solid brown;
+        border-width: 10px 40px;
+        border-radius: 5px;}
+
+
+        
+        .fifth-heading{
+            font-size: 40px;
+        }
+        .anchor-three{
+            font-size: 20px;
+        color:white;
+        background-color: brown;
+        text-decoration: none;
+        border: solid brown;
+        border-width: 10px 40px;
+        border-radius: 5px;}
+        }
+
+        .sec-four{
+            margin-top: 60px;
+            background-image: url(images/shapes/shape-1.png);
+            background-size: 40%;
+         }
+        .third-image{
+            width: 60%;
+            margin-left: 20%;
+        }
+            }
