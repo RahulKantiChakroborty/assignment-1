@@ -1,0 +1,73 @@
+body{
+    margin-left: 5%;
+}
+section{
+    display: flex;
+    margin-left: 20px;
+}
+.first-img{
+    width: 60%;
+    margin-left: 20%;
+}
+span{
+    font-size: 40px;
+      padding-top: 20px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+}
+.first-heading{
+    
+}
+.second-heading{
+    color: darkgoldenrod;  
+}
+.third-heading{
+    font-size: 50px;
+    text-align: center;
+}
+.third-heading-right{
+    color: rgb(199, 169, 0);
+}
+p{
+    font-size: 20px;
+    color:rgb(15, 14, 14);
+    font-family: 'Poppins', sans-serif;
+}
+.first-link{
+    font-size: 20px;
+    color:white;
+    background-color: brown;
+    text-decoration: none;
+    border: solid brown;
+    border-width: 10px 40px;
+    border-radius: 5px;
+}
+.first-footer{
+    margin-top: 40px;
+    font-size: 20px;
+    color: dimgrey;
+}
+.image-of-mission{
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+.mission{
+    border: solid;
+    border-radius: 20px;
+    border-image: url(images/shapes/shape-1.png);
+    border: 1px solid #ddd;
+    background-color:whitesmoke
+}
+.heading-of-mission{
+    font-size: 25px;
+    font-weight: 200;
+    padding-left: 15px;
+    
+}
+.pragraph-of-mission{
+    padding-left: 15px;
+    color: darkgray;
+    font-family: 'Roboto', sans-serif;
+}
