@@ -7,8 +7,8 @@ section{
     margin-left: 20px;
 }
 .first-img{
-    width: 60%;
-    margin-left: 20%;
+    width: 100%;
+    margin-left: 5%%;
 }
 span{
     font-size: 40px;
@@ -26,6 +26,7 @@ span{
     color: rgb(255, 173, 90);  
 }
 .third-heading{
+    font-family: 'Open Sans', sans-serif;
     font-size: 50px;
     text-align: center;
     color: rgb(19, 16, 58);
