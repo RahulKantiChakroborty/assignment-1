@@ -13,20 +13,25 @@ section{
 span{
     font-size: 40px;
       padding-top: 20px;
+      font-family: 'Yeseva One', cursive;
 }
 .first-heading{
-    border-left: solid red 5px;
-    height: 20%
+    color:rgb(51, 51, 51) ;
+    height: 20%;
+}
+.in-the-first-heading{
+    border-left: solid orangered;
 }
 .second-heading{
-    color: darkgoldenrod;  
+    color: rgb(255, 173, 90);  
 }
 .third-heading{
     font-size: 50px;
     text-align: center;
+    color: rgb(19, 16, 58);
 }
 .third-heading-right{
-    color: rgb(199, 169, 0);
+    color: rgb(255, 173, 90);
 }
 p{
     font-size: 20px;
@@ -36,9 +41,9 @@ p{
 .first-anchor{
     font-size: 20px;
     color:white;
-    background-color: brown;
+    background-color: rgb(255, 89, 89);
     text-decoration: none;
-    border: solid brown;
+    border: solid rgb(255, 89, 89);
     border-width: 10px 40px;
     border-radius: 5px;
 }
@@ -56,19 +61,20 @@ p{
     border: solid;
     border-radius: 20px;
     border-image: url(images/shapes/shape-1.png);
-    border: 1px solid #ddd;
-    background-color:whitesmoke
+    border: 1px solid rgb(237, 245, 246);
+    background-color: rgb(237, 245, 246);
+    margin: 20px 20px 20px 0px;
 }
 .heading-of-mission{
     font-size: 25px;
-    font-weight: 200;
+    font-weight:bold;
     padding-left: 15px;
     
 }
 .pragraph-of-mission{
     padding-left: 15px;
-    color: darkgray;
-    font-family: 'Roboto', sans-serif;
+    color: rgb(66,66,66);
+    font-family: 'Poppins', sans-serif;
 }
 .image-of-vission{
     border-radius: 4px;
@@ -79,19 +85,19 @@ p{
       border: solid;
       border-radius: 20px;
       border-image: url(images/shapes/shape-1.png);
-      border: 1px solid #ddd;
-      background-color:whitesmoke
+      border: 1px solid rgb(255, 238, 238);
+      background-color:rgb(255, 238, 238);
+      margin: 20px;
   }
   .heading-of-vission{
       font-size: 25px;
-      font-weight: 200;
       padding-left: 15px;
       
   }
   .pragraph-of-vission{
       padding-left: 15px;
-      color: darkgray;
-      font-family: 'Roboto', sans-serif;
+      color: rgb(66, 66, 66);
+      font-family: 'Poppins', sans-serif;
   }
   .image-of-goals{
     border-radius: 4px;
@@ -102,20 +108,69 @@ p{
       border: solid;
       border-radius: 20px;
       border-image: url(images/shapes/shape-1.png);
-      border: 1px solid #ddd;
-      background-color:whitesmoke
+      border: 1px solid rgb(255, 244, 214);
+      background-color:rgb(255, 244, 214);
+      margin: 20px;
   }
   .heading-of-goals{
       font-size: 25px;
-      font-weight: 200;
       padding-left: 15px;
       
   }
   .pragraph-of-goals{
       padding-left: 15px;
-      color: darkgray;
-      font-family: 'Roboto', sans-serif;
+      color: rgb(66,66,66);
+      font-family: 'Poppins', sans-serif;
   }
+  .second-img{
+    width: 80%;
+    margin-left: 0%;
 
-
+  }
+.heading-four{
+    font-size: 40px;
+    font-family:sans-serif;
+}
+.first-divition{
+    margin-top: 5%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-x:160px;
+}
+.second-divition{
+    margin-top: 5%;
+}
+.second-anchor{
+    font-size: 20px;
+    color:white;
+    background-color: rgb(255, 89, 89);
+    text-decoration: none;
+    border: solid rgb(255, 89, 89);
+    border-width: 10px 40px;
+    border-radius: 5px;
+}
+.third-image{
+    width: 80%;
+    margin-left: 10%;
+}
+.heading-five{
+    font-size: 40px;
+    font-family:sans-serif;
+}
+.third-divition{
+    margin-top: 10%;
+}
+.fourth-divition{
+    margin-top: 5%;
+}
+.third-anchor{
+    font-size: 20px;
+    color:white;
+    background-color: rgb(255, 89, 89);
+    text-decoration: none;
+    border: solid rgb(255, 89, 89);
+    border-width: 10px 40px;
+    border-radius: 5px;
+}
 
