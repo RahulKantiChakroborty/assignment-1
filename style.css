@@ -13,12 +13,10 @@ section{
 span{
     font-size: 40px;
       padding-top: 20px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
 }
 .first-heading{
-    
+    border-left: solid red 5px;
+    height: 20%
 }
 .second-heading{
     color: darkgoldenrod;  
@@ -72,3 +70,52 @@ p{
     color: darkgray;
     font-family: 'Roboto', sans-serif;
 }
+.image-of-vission{
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  .vission{
+      border: solid;
+      border-radius: 20px;
+      border-image: url(images/shapes/shape-1.png);
+      border: 1px solid #ddd;
+      background-color:whitesmoke
+  }
+  .heading-of-vission{
+      font-size: 25px;
+      font-weight: 200;
+      padding-left: 15px;
+      
+  }
+  .pragraph-of-vission{
+      padding-left: 15px;
+      color: darkgray;
+      font-family: 'Roboto', sans-serif;
+  }
+  .image-of-goals{
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  .goals{
+      border: solid;
+      border-radius: 20px;
+      border-image: url(images/shapes/shape-1.png);
+      border: 1px solid #ddd;
+      background-color:whitesmoke
+  }
+  .heading-of-goals{
+      font-size: 25px;
+      font-weight: 200;
+      padding-left: 15px;
+      
+  }
+  .pragraph-of-goals{
+      padding-left: 15px;
+      color: darkgray;
+      font-family: 'Roboto', sans-serif;
+  }
+
+
+
